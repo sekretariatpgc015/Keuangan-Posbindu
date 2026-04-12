@@ -13,7 +13,7 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="bg-white p-1 rounded-xl shadow-sm border border-pink-100 flex items-center justify-center overflow-hidden h-10 w-10">
-              <img src="https://cdn.phototourl.com/uploads/2026-03-11-89458f4e-59a0-4459-9634-339a0fe9365d.png" alt="Logo Posbindu" className="h-full w-full object-contain" referrerPolicy="no-referrer" />
+              <img src="https://lh3.googleusercontent.com/d/1YibmCQLufPZ9t5gDx7I7JTLY4m1oymrM" alt="Logo Posbindu" className="h-full w-full object-contain" referrerPolicy="no-referrer" />
             </div>
             <div>
               <h1 className="font-bold text-lg text-pink-900 leading-tight">Posbindu Cendrawasih 1</h1>
